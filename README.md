@@ -3,7 +3,7 @@
 ## introduce
 A xmake project use imgui, glfw and opengl3 with mingw in windows.
 一个使用xmake管理的imgui项目模板。
-![alt 效果图](res/result.png)
+![image](res/result.png)
 
 ---
 
